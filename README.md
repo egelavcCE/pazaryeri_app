@@ -1,16 +1,38 @@
-# untitled
+# Pazaryeri App
 
-A new Flutter project.
+Flutter ile geliştirilmiş bir pazaryeri uygulamasıdır. Kullanıcılar ürünleri görüntüleyebilir, arayabilir, sepete ekleyebilir ve sipariş verebilir.
 
-## Getting Started
+## Özellikler
+- Ürün arama ve filtreleme
+- Ürün detayları görüntüleme
+- Sepete ürün ekleme
+- Sipariş oluşturma
+- Profil ve adres yönetimi
+- Favori ürünler
+- Bildirimler
 
-This project is a starting point for a Flutter application.
+## Kurulum
 
-A few resources to get you started if this is your first Flutter project:
+1. [Flutter](https://flutter.dev/docs/get-started/install) SDK'yı kurun.
+2. Proje dizininde terminal açın ve bağımlılıkları yükleyin:
+   ```sh
+   flutter pub get
+   ```
+3. Uygulamayı başlatın:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Kullanım
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Uygulamayı başlattıktan sonra ana sayfadan ürünleri inceleyebilir, arama yapabilir ve ürün detaylarını görebilirsiniz.
+- Sepete ürün ekleyip sipariş oluşturabilirsiniz.
+- Profil sayfasından adres ve kart bilgilerinizi yönetebilirsiniz.
+
+## Katkıda Bulunma
+
+Katkılarınızı memnuniyetle karşılıyoruz! Lütfen bir pull request oluşturun veya bir issue açın.
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır.
